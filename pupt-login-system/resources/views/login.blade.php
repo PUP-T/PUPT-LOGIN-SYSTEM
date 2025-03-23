@@ -15,6 +15,15 @@
         <div class="logo-container">
             <img src="assets/images/PUPLogo.png" alt="PUP Logo" class="logo">
         </div>
+
+        <div class="login-form-container">
+            <div class="login-form">
+                <div class="form-title">
+                    <h2>PUP-Taguig Systems</h2>
+                    <h2>Authentication</h2>
+                </div>
+            </div>
+        </div>
     </div>
 </body>
 </html>
