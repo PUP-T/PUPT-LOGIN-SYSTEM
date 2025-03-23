@@ -28,6 +28,11 @@
                         <label for="email">Email</label>
                         <input type="email" id="email" class="form-control" placeholder="Enter your email address">
                     </div>
+
+                    <div class="form-group">
+                        <label for="password">Password</label>
+                        <input type="password" id="password" class="form-control" placeholder="Enter your password">
+                    </div>
                 </form>
             </div>
         </div>
