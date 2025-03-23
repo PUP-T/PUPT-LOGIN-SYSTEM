@@ -22,6 +22,13 @@
                     <h2>PUP-Taguig Systems</h2>
                     <h2>Authentication</h2>
                 </div>
+
+                <form>
+                    <div class="form-group">
+                        <label for="email">Email</label>
+                        <input type="email" id="email" class="form-control" placeholder="Enter your email address">
+                    </div>
+                </form>
             </div>
         </div>
     </div>
