@@ -5,6 +5,33 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PUP-Taguig Systems Authentication</title>
     <link rel="stylesheet" href="assets/css/login.css">
+    <style>
+    .logo-form-bg {
+        position: absolute;
+        left: 10%;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 85%;
+        height: 520px;
+        border-radius: 20px;
+        z-index: 1;
+        background-color: white;
+    }
+
+    .logo-form-bg::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url('assets/images/login.jpg');
+        background-size: cover;
+        background-position: center;
+        border-radius: 20px;
+        z-index: 2;
+    }
+    </style>
 </head>
 <body>
     <div class="main-container">
