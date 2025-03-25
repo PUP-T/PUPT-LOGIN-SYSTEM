@@ -26,33 +26,6 @@
 
   <!-- Main CSS File -->
   <link href="assets/landing-page/css/main.css" rel="stylesheet">
-</head>
-
-<body class="index-page">
-
-  <header id="header" class="header d-flex align-items-center sticky-top">
-    <div class="container-fluid container-xl position-relative d-flex align-items-center">
-
-      <a href="index.html" class="logo d-flex align-items-center me-auto">
-       <img src="assets/images/PUPLogo.png" alt="">
-        <h4 class="sitename">PUP-T Systems Authentication</h4>
-      </a>
-
-      <nav id="navmenu" class="navmenu">
-        <ul>
-          <li><a href="#hero" class="active">Home</a></li>
-          <li><a href="#about">About</a></li>
-          <li><a href="#features">Features</a></li>
-          <li><a href="#how-it-works">How it Works</a></li>
-        </ul>
-        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
-      </nav>
-
-      <a class="btn-getstarted" href="{{route ('login')}}">Login</a>
-    </div>
-  </header>
-  
-    <main class="main">
 
     <!-- Hero Section -->
     <section id="hero" class="hero section dark-background">
@@ -229,8 +202,6 @@
       </div>
 
     </section><!-- /Features Section -->
-	
-  </main>
 
   <!-- Vendor JS Files -->
   <script src="assets/landing-page/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
