@@ -222,72 +222,87 @@
     <!-- How it Works Section -->
     <section id="how-it-works" class="faq section">
 
-      <!-- Section Title -->
+    <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>How it Works</h2>
-        <div> <span class="description-title">How it Works</span></div>
+        <h2>How It Works</h2>
+          <div><span class="description-title">Understanding the Process</span></div>
       </div><!-- End Section Title -->
 
       <div class="container">
 
-        <div class="row faq-item" data-aos="fade-up" data-aos-delay="100">
-          <div class="col-lg-5 d-flex">
-            <h4>Non consectetur a erat nam at lectus urna duis?</h4>
-          </div>
-          <div class="col-lg-7">
-            <p>
-              Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
-            </p>
-          </div>
-        </div><!-- End F.A.Q Item-->
-
-        <div class="row faq-item" data-aos="fade-up" data-aos-delay="200">
-          <div class="col-lg-5 d-flex">
-            <h4>Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque?</h4>
-          </div>
-          <div class="col-lg-7">
-            <p>
-              Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim.
-            </p>
-          </div>
-        </div><!-- End F.A.Q Item-->
-
-        <div class="row faq-item" data-aos="fade-up" data-aos-delay="300">
-          <div class="col-lg-5 d-flex">
-            <h4>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi?</h4>
-          </div>
-          <div class="col-lg-7">
-            <p>
-              Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus.
-            </p>
-          </div>
-        </div><!-- End F.A.Q Item-->
-
-        <div class="row faq-item" data-aos="fade-up" data-aos-delay="400">
-          <div class="col-lg-5 d-flex">
-            <h4>Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?</h4>
-          </div>
-          <div class="col-lg-7">
-            <p>
-              Aperiam itaque sit optio et deleniti eos nihil quidem cumque. Voluptas dolorum accusantium sunt sit enim. Provident consequuntur quam aut reiciendis qui rerum dolorem sit odio. Repellat assumenda soluta sunt pariatur error doloribus fuga.
-            </p>
-          </div>
-        </div><!-- End F.A.Q Item-->
-
-        <div class="row faq-item" data-aos="fade-up" data-aos-delay="500">
-          <div class="col-lg-5 d-flex">
-            <h4>Tempus quam pellentesque nec nam aliquam sem et tortor consequat?</h4>
-          </div>
-          <div class="col-lg-7">
-            <p>
-              Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
-            </p>
-          </div>
+    <!-- Step 1: Secure Login -->
+      <div class="row faq-item" data-aos="fade-up" data-aos-delay="100">
+        <div class="col-lg-5 d-flex">
+          <h4>Step 1: Secure Login</h4>
         </div>
-
+      <div class="col-lg-7">
+        <p>
+        The users access the system with the credentials they have registered. 
+        Multi-factor authentication (MFA) make sure that user's identity is 
+        being verified.
+        </p>
       </div>
+      </div><!-- End F.A.Q Item-->
+
+    <!-- Step 2: Role-Based Access -->
+      <div class="row faq-item" data-aos="fade-up" data-aos-delay="200">
+        <div class="col-lg-5 d-flex">
+          <h4>Step 2: Role-Based Access Control</h4>
+        </div>
+      <div class="col-lg-7">
+        <p>
+        The system assigns permissions based on user roles e.g. Student 
+        and Faculty, ensuring correct access levels and data security.
+        </p>
+      </div>
+      </div><!-- End F.A.Q Item-->
+
+    <!-- Step 3: Activity Logging -->
+      <div class="row faq-item" data-aos="fade-up" data-aos-delay="300">
+        <div class="col-lg-5 d-flex">
+          <h4>Step 3: Real-Time Activity Monitoring</h4>
+        </div>
+      <div class="col-lg-7">
+        <p>
+        To enhance security and audit trails, the system logs every action 
+        carried out within the system thereby providing administrators 
+        with insight into user activities.
+        </p>
+      </div>
+      </div><!-- End F.A.Q Item-->
+
+    <!-- Step 4: Document Management -->
+      <div class="row faq-item" data-aos="fade-up" data-aos-delay="400">
+        <div class="col-lg-5 d-flex">
+          <h4>Step 4: Document & Course Management</h4>
+        </div>
+      <div class="col-lg-7">
+        <p>
+        Admin would be able to upload, manage, and access all functionalities 
+        related to documents, including student records, authentication logs,
+        in a very efficient manner.
+        </p>
+      </div>
+      </div><!-- End F.A.Q Item-->
+
+    <!-- Step 5: Logout & Security -->
+      <div class="row faq-item" data-aos="fade-up" data-aos-delay="500">
+        <div class="col-lg-5 d-flex">
+          <h4>Step 5: Secure Logout & Data Protection</h4>
+        </div>
+      <div class="col-lg-7">
+        <p>
+        Once the user logs out and closes the page, a system is programmed to
+        manage the encryption of the online platform in addition to the data 
+        security and protecting the user from hack attacks.
+        </p>
+      </div>
+      </div><!-- End F.A.Q Item-->
+
+    </div>
 
     </section><!-- /How it Works Section -->
+
 
   </main>
 
