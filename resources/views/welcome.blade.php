@@ -116,34 +116,35 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>About</h2>
-        <div><span>Learn More About</span> <span class="description-title">Our System</span></div>
+        <div><span>Discover More About</span> <span class="description-title">PUP-T Authentication</span></div>
       </div><!-- End Section Title -->
 
       <div class="container">
 
         <div class="row gy-4">
-
+      
           <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-              Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in 
-              reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+            Provide a complete and undivided experience in terms of secure access 
+            to students and faculty under the PUP-Taguig Systems Authentication. 
+            The system uses modern encryption and multi-layered security protocols 
+            to ensure that user data remains protected and confidential all the time.
             </p>
           </div>
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-              Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in 
-              reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-               culpa qui officia deserunt mollit anim id est laborum. </p>
+            <p>
+            The authentication system gets rid of the complicated login systems that 
+            are old-outdated and guarantees a fast, reliable, and user-friendly interface. 
+            Users can thus log in efficiently without any lag; consequently, there is a 
+            more productive and hassle-free experience.
+            </p>
           </div>
 
         </div>
-
       </div>
-
     </section><!-- /About Section -->
+
 
     <!-- Features Section -->
     <section id="features" class="services section">
