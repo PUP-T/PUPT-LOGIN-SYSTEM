@@ -64,28 +64,37 @@
           <div class="carousel-container">
             <h2>Welcome to PUP-Taguig Systems
               Authentication<br></h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p>Enter a smooth and secure authentication system for the students
+               and faculty of PUP-Taguig. The system facilitates quick and 
+               reliable access to your account, easy and associated with 
+               advanced levels of security.</p>
             <!-- <a href="" class="btn-get-started">Login</a> -->
           </div>
-        </div><!-- End Carousel Item -->
+      </div><!-- End Carousel Item -->
 
-        <div class="carousel-item">
-          <img src="" alt="">
-          <div class="carousel-container">
-            <h2>Welcome to PUP-Taguig Systems Authentication</h2>
-            <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut.</p>
-            <!-- <a href="" class="btn-get-started">Login</a> -->
-          </div>
-        </div><!-- End Carousel Item -->
+      <div class="carousel-item">
+        <img src="" alt="">
+        <div class="carousel-container">
+          <h2>Welcome to PUP-Taguig Systems Authentication</h2>
+          <p>The entry and authentication processes of our user-friendly 
+            system are so fast, which minimizes any waiting period and 
+            increases the efficiency of service to students and staff. 
+            Complicated log-on is gone.</p>
+          <!-- <a href="" class="btn-get-started">Login</a> -->
+        </div>
+      </div><!-- End Carousel Item -->
 
-        <div class="carousel-item">
-          <img src="" alt="">
-          <div class="carousel-container">
-            <h2>Welcome to PUP-Taguig Systems Authentication</h2>
-            <p>Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt omnis iste natus error sit voluptatem accusantium.</p>
-            <!-- <a href="" class="btn-get-started">Login</a> -->
-          </div>
-        </div><!-- End Carousel Item -->
+      <div class="carousel-item">
+        <img src="" alt="">
+        <div class="carousel-container">
+          <h2>Welcome to PUP-Taguig Systems Authentication</h2>
+          <p>Data security is our priority. The modern encryption and 
+            multi-layered security protocols ensure that with the 
+            PUP-Taguig Systems Authentication, your information will remain secured.</p>
+          <!-- <a href="" class="btn-get-started">Login</a> -->
+        </div>
+      </div><!-- End Carousel Item -->
+
 
         <a class="carousel-control-prev" href="#hero-carousel" role="button" data-bs-slide="prev">
           <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
