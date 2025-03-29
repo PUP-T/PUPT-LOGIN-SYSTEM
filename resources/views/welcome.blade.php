@@ -60,7 +60,7 @@
       <div id="hero-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="5000">
 
         <div class="carousel-item active">
-          <img src="" alt="">
+          <img src="/assets/images/pup_2.jpeg" alt="">
           <div class="carousel-container">
             <h2>Welcome to PUP-Taguig Systems
               Authentication<br></h2>
@@ -73,7 +73,7 @@
       </div><!-- End Carousel Item -->
 
       <div class="carousel-item">
-        <img src="" alt="">
+        <img src="/assets/images/pup_3.jpg" alt="">
         <div class="carousel-container">
           <h2>Welcome to PUP-Taguig Systems Authentication</h2>
           <p>The entry and authentication processes of our user-friendly 
@@ -85,7 +85,7 @@
       </div><!-- End Carousel Item -->
 
       <div class="carousel-item">
-        <img src="" alt="">
+        <img src="/assets/images/pup_4.jpg" alt="">
         <div class="carousel-container">
           <h2>Welcome to PUP-Taguig Systems Authentication</h2>
           <p>Data security is our priority. The modern encryption and 
