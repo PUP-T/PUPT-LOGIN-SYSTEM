@@ -70,31 +70,30 @@
                advanced levels of security.</p>
             <!-- <a href="" class="btn-get-started">Login</a> -->
           </div>
-      </div><!-- End Carousel Item -->
+        </div><!-- End Carousel Item -->
 
-      <div class="carousel-item">
-        <img src="/assets/images/pup_3.jpg" alt="">
-        <div class="carousel-container">
-          <h2>Welcome to PUP-Taguig Systems Authentication</h2>
-          <p>The entry and authentication processes of our user-friendly 
+        <div class="carousel-item">
+          <img src="/assets/images/pup_3.jpg" alt="">
+          <div class="carousel-container">
+            <h2>Welcome to PUP-Taguig Systems Authentication</h2>
+            <p>The entry and authentication processes of our user-friendly 
             system are so fast, which minimizes any waiting period and 
             increases the efficiency of service to students and staff. 
             Complicated log-on is gone.</p>
-          <!-- <a href="" class="btn-get-started">Login</a> -->
-        </div>
-      </div><!-- End Carousel Item -->
+            <!-- <a href="" class="btn-get-started">Login</a> -->
+          </div>
+        </div><!-- End Carousel Item -->
 
-      <div class="carousel-item">
-        <img src="/assets/images/pup_4.jpg" alt="">
-        <div class="carousel-container">
-          <h2>Welcome to PUP-Taguig Systems Authentication</h2>
-          <p>Data security is our priority. The modern encryption and 
+        <div class="carousel-item">
+          <img src="/assets/images/pup_4.jpg" alt="">
+          <div class="carousel-container">
+            <h2>Welcome to PUP-Taguig Systems Authentication</h2>
+            <p>Data security is our priority. The modern encryption and 
             multi-layered security protocols ensure that with the 
             PUP-Taguig Systems Authentication, your information will remain secured.</p>
-          <!-- <a href="" class="btn-get-started">Login</a> -->
-        </div>
-      </div><!-- End Carousel Item -->
-
+            <!-- <a href="" class="btn-get-started">Login</a> -->
+          </div>
+        </div><!-- End Carousel Item -->
 
         <a class="carousel-control-prev" href="#hero-carousel" role="button" data-bs-slide="prev">
           <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
@@ -116,13 +115,13 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>About</h2>
-        <div><span>Discover More About</span> <span class="description-title">PUP-T Authentication</span></div>
+        <div><span>Learn More About</span> <span class="description-title">Our System</span></div>
       </div><!-- End Section Title -->
 
       <div class="container">
 
         <div class="row gy-4">
-      
+
           <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
             <p>
             Provide a complete and undivided experience in terms of secure access 
@@ -133,176 +132,195 @@
           </div>
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
-            <p>
-            The authentication system gets rid of the complicated login systems that 
+            <p>The authentication system gets rid of the complicated login systems that 
             are old-outdated and guarantees a fast, reliable, and user-friendly interface. 
             Users can thus log in efficiently without any lag; consequently, there is a 
-            more productive and hassle-free experience.
-            </p>
+            more productive and hassle-free experience.</p>
           </div>
 
         </div>
-      </div>
-    </section><!-- /About Section -->
 
+      </div>
+
+    </section><!-- /About Section -->
 
     <!-- Features Section -->
     <section id="features" class="services section">
+
+      <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Features</h2>
-        <div><span>Explore Our</span> <span class="description-title">Key Features</span></div>
-      </div>
+        <div><span>Check Our</span> <span class="description-title">Features</span></div>
+      </div><!-- End Section Title -->
 
       <div class="container">
+
         <div class="row gy-4">
 
-          <!-- Feature: Home (Menu Column) -->
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="service-item position-relative">
-              <div class="icon"><i class="bi bi-house-door-fill"></i></div>
-              <h3>Home Dashboard</h3>
+            <div class="service-item  position-relative">
+              <div class="icon">
+                <i class="bi bi-person-fill"></i>
+              </div>
+              <a href="service-details.html" class="stretched-link">
+                <h3>Home Dashboard</h3>
+              </a>
               <p>Access an information on your system's authentication, activity logs, and status.</p>
             </div>
-          </div>
+          </div><!-- End Features Item -->
 
-          <!-- Feature: Audit Trail -->
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div class="service-item position-relative">
-              <div class="icon"><i class="bi bi-list-check"></i></div>
-              <h3>Audit Trail</h3>
+              <div class="icon">
+                <i class="bi bi-key-fill"></i>
+              </div>
+              <a href="service-details.html" class="stretched-link">
+                <h3>Audit Trail</h3>
+              </a>
               <p>Execute detailed logging of every authentication activity so as to make these 
-                activities accountable for security purposes. </p>
+              activities accountable for security purposes.</p>
             </div>
-          </div>
+          </div><!-- End Features Item -->
 
-          <!-- Feature: User Management -->
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
             <div class="service-item position-relative">
-              <div class="icon"><i class="bi bi-person-badge-fill"></i></div>
-              <h3>User Management</h3>
+              <div class="icon">
+                <i class="bi bi-shield-lock-fill"></i>
+              </div>
+              <a href="service-details.html" class="stretched-link">
+                <h3>User Management</h3>
+              </a>
               <p>Efficiently manage users, assign roles, and control system access with ease.</p>
             </div>
-          </div>
+          </div><!-- End Features Item -->
 
-          <!-- Feature: Access Control -->
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
             <div class="service-item position-relative">
-              <div class="icon"><i class="bi bi-lock-fill"></i></div>
-              <h3>Access Control</h3>
+              <div class="icon">
+                <i class="bi bi-clock-history"></i>
+              </div>
+              <a href="service-details.html" class="stretched-link">
+                <h3>Access Control</h3>
+              </a>
               <p>Limit access and define the permission of users in accordance with their 
                 job role so that sensitive data will remain protected against those who 
                 may engage in fraudulent practices.</p>
+              <a href="service-details.html" class="stretched-link"></a>
             </div>
-          </div>
+          </div><!-- End Features Item -->
 
-          <!-- Feature: Course & Department (Settings Column) -->
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
             <div class="service-item position-relative">
-              <div class="icon"><i class="bi bi-book-fill"></i></div>
-              <h3>Course & Department</h3>
+              <div class="icon">
+                <i class="bi bi-shield-check"></i>
+              </div>
+              <a href="service-details.html" class="stretched-link">
+                <h3>Course & Department</h3>
+              </a>
               <p>Structured role-based access facilitates the efficient management of 
-                courses and departments.</p>
+              courses and departments.</p>
+              <a href="service-details.html" class="stretched-link"></a>
             </div>
-          </div>
+          </div><!-- End Features Item -->
 
-          <!-- Feature: User Validation -->
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
             <div class="service-item position-relative">
-              <div class="icon"><i class="bi bi-check-circle-fill"></i></div>
-              <h3>User Validation</h3>
+              <div class="icon">
+                <i class="bi bi-list-check"></i>
+              </div>
+              <a href="service-details.html" class="stretched-link">
+                <h3>User Validation</h3>
+              </a>
               <p>Ensure authenticity with user verification processes before granting access.</p>
+              <a href="service-details.html" class="stretched-link"></a>
             </div>
-          </div>
+          </div><!-- End Features Item -->
 
         </div>
+
       </div>
-    </section>
+
+    </section><!-- /Features Section -->
 
 
     <!-- How it Works Section -->
     <section id="how-it-works" class="faq section">
 
-    <!-- Section Title -->
+      <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>How It Works</h2>
-          <div><span class="description-title">Understanding the Process</span></div>
+        <h2>How it Works</h2>
+        <div> <span class="description-title">How it Works</span></div>
       </div><!-- End Section Title -->
 
       <div class="container">
 
-    <!-- Step 1: Secure Login -->
-      <div class="row faq-item" data-aos="fade-up" data-aos-delay="100">
-        <div class="col-lg-5 d-flex">
-          <h4>Step 1: Secure Login</h4>
-        </div>
-      <div class="col-lg-7">
-        <p>
-        The users access the system with the credentials they have registered. 
-        Multi-factor authentication (MFA) make sure that user's identity is 
-        being verified.
-        </p>
-      </div>
-      </div><!-- End F.A.Q Item-->
+        <div class="row faq-item" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-lg-5 d-flex">
+            <h4>Step 1: Secure Login</h4>
+          </div>
+          <div class="col-lg-7">
+            <p>
+            The users access the system with the credentials they have registered. 
+            Multi-factor authentication (MFA) make sure that user's identity is 
+            being verified.
+            </p>
+          </div>
+        </div><!-- End F.A.Q Item-->
 
-    <!-- Step 2: Role-Based Access -->
-      <div class="row faq-item" data-aos="fade-up" data-aos-delay="200">
-        <div class="col-lg-5 d-flex">
-          <h4>Step 2: Role-Based Access Control</h4>
-        </div>
-      <div class="col-lg-7">
-        <p>
-        The system assigns permissions based on user roles e.g. Student 
-        and Faculty, ensuring correct access levels and data security.
-        </p>
-      </div>
-      </div><!-- End F.A.Q Item-->
+        <div class="row faq-item" data-aos="fade-up" data-aos-delay="200">
+          <div class="col-lg-5 d-flex">
+            <h4>Step 2: Role-Based Access Control</h4>
+          </div>
+          <div class="col-lg-7">
+            <p>
+            The system assigns permissions based on user roles e.g. Student 
+            and Faculty, ensuring correct access levels and data security.
+            </p>
+          </div>
+        </div><!-- End F.A.Q Item-->
 
-    <!-- Step 3: Activity Logging -->
-      <div class="row faq-item" data-aos="fade-up" data-aos-delay="300">
-        <div class="col-lg-5 d-flex">
-          <h4>Step 3: Real-Time Activity Monitoring</h4>
-        </div>
-      <div class="col-lg-7">
-        <p>
-        To enhance security and audit trails, the system logs every action 
-        carried out within the system thereby providing administrators 
-        with insight into user activities.
-        </p>
-      </div>
-      </div><!-- End F.A.Q Item-->
+        <div class="row faq-item" data-aos="fade-up" data-aos-delay="300">
+          <div class="col-lg-5 d-flex">
+            <h4>Step 3: Real-Time Activity Monitoring</h4>
+          </div>
+          <div class="col-lg-7">
+            <p>
+            To enhance security and audit trails, the system logs every action 
+            carried out within the system thereby providing administrators 
+            with insight into user activities.
+            </p>
+          </div>
+        </div><!-- End F.A.Q Item-->
 
-    <!-- Step 4: Document Management -->
-      <div class="row faq-item" data-aos="fade-up" data-aos-delay="400">
-        <div class="col-lg-5 d-flex">
-          <h4>Step 4: Document & Course Management</h4>
-        </div>
-      <div class="col-lg-7">
-        <p>
-        Admin would be able to upload, manage, and access all functionalities 
-        related to documents, including student records, authentication logs,
-        in a very efficient manner.
-        </p>
-      </div>
-      </div><!-- End F.A.Q Item-->
+        <div class="row faq-item" data-aos="fade-up" data-aos-delay="400">
+          <div class="col-lg-5 d-flex">
+            <h4>Step 4: Document & Course Management</h4>
+          </div>
+          <div class="col-lg-7">
+            <p>
+            Admin would be able to upload, manage, and access all functionalities 
+            related to documents, including student records, authentication logs,
+            in a very efficient manner.
+            </p>
+          </div>
+        </div><!-- End F.A.Q Item-->
 
-    <!-- Step 5: Logout & Security -->
-      <div class="row faq-item" data-aos="fade-up" data-aos-delay="500">
-        <div class="col-lg-5 d-flex">
-          <h4>Step 5: Secure Logout & Data Protection</h4>
+        <div class="row faq-item" data-aos="fade-up" data-aos-delay="500">
+          <div class="col-lg-5 d-flex">
+            <h4>Step 5: Secure Logout & Data Protection</h4>
+          </div>
+          <div class="col-lg-7">
+            <p>
+            Once the user logs out and closes the page, a system is programmed to
+            manage the encryption of the online platform in addition to the data 
+            security and protecting the user from hack attacks.
+            </p>
+          </div>
         </div>
-      <div class="col-lg-7">
-        <p>
-        Once the user logs out and closes the page, a system is programmed to
-        manage the encryption of the online platform in addition to the data 
-        security and protecting the user from hack attacks.
-        </p>
-      </div>
-      </div><!-- End F.A.Q Item-->
 
-    </div>
+      </div>
 
     </section><!-- /How it Works Section -->
-
 
   </main>
 
