@@ -20,7 +20,7 @@
                              <div class="profile-info">
                                  <div class="info">
                                      <div class="image">
-                                         <img src="../../assets/admin/images/profile-picture.png" alt="" />
+                                         <img src="../../../assets/admin/images/profile-picture.png" alt="" />
                                      </div>
                                      <div>
                                          <h6 class="fw-500">{{ $admin->first_name }} </h6>
@@ -33,21 +33,20 @@
                                  <li>
                                      <div class="author-info flex items-center !p-1">
                                          <div class="image">
-                                             <img src="../../assets/admin/images/profile-picture.png" alt="image">
+                                             <img src="../../../assets/admin/images/profile-picture.png" alt="image">
                                          </div>
                                          <div class="content">
                                              <h4 class="text-sm">{{ $admin->first_name }} {{ $admin->last_name }}</h4>
                                              <a class="text-black/40 dark:text-white/40 hover:text-black dark:hover:text-white text-xs"
-                                                 href="#">{{ $admin->email }}</a>
+                                                 href="{{ route('admin.profile') }}">{{ $admin->email }}</a>
                                          </div>
                                      </div>
                                  </li>
                                  <li class="divider"></li>
                                  <li>
-                                     <a href="#0">
+                                     <a href="{{ route('admin.profile') }}">
                                          <i class="lni lni-user"></i> View Profile
                                      </a>
-                                 </li>
                                  <li>
                                      <a href="#0"> <i class="lni lni-cog"></i> Settings </a>
                                  </li>

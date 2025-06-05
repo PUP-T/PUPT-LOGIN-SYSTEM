@@ -6088,3 +6088,37 @@ h6,
       border-radius: 8px;
       cursor: pointer;
     }
+
+    .modal-lg .modal-content {
+      width: 100%;
+      max-width: 900px; /* You can adjust this width as needed */
+    }
+
+.spinner-border-sm {
+    width: 1rem;
+    height: 1rem;
+}
+
+#importLoading {
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+}
+
+/* Disable pointer events when processing */
+#importBtn:disabled {
+    pointer-events: none;
+    opacity: 0.6;
+}
+
+button:disabled {
+    cursor: not-allowed;
+}
+
+.eModalCenter {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
